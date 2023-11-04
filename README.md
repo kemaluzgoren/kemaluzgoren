@@ -1,6 +1,6 @@
 ## Hi there 👋 
 ### About me
-I am an Embedded System Engineer with a passion for technology and software development. Throughout my academic journey, I focused on honing my skills in programming languages like C, C++, Python, and Matlab. My journey has been enriched with hands-on experience working on diverse projects, especially in the areas of telecommunications and embedded systems, where I effectively utilized tools such as GNURadio, KiCad, and Linux.
+I am an Embedded System Engineer with a passion for technology and software development. Throughout my academic journey, I focused on honing my skills in programming languages like C, C++, Python, and Matlab. My journey has been enriched with hands-on experience working on diverse projects, especially in the areas of telecommunications and embedded systems, where I effectively utilized tools such as GNURadio, Altium Design, KiCad, and Linux.
 
 
 
